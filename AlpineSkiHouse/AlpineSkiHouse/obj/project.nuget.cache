@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "dub9kPMttAY=",
+  "dgSpecHash": "kYu7rgUYxBE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TG24ST25\\source\\repos\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/AlpineSkiHouse.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.32/microsoft.netcore.app.host.linux-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
