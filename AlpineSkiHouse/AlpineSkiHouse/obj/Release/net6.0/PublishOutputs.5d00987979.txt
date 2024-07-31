@@ -1,0 +1,7 @@
+C:\Users\TG24ST25\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.exe
+C:\Users\TG24ST25\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\TG24ST25\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\TG24ST25\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.dll
+C:\Users\TG24ST25\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.deps.json
+C:\Users\TG24ST25\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+C:\Users\TG24ST25\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.pdb
