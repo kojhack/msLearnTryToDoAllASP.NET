@@ -30,10 +30,11 @@ public class PizzaController : ControllerBase
 
 
     //POST action
-    //[HttpPost]
-    /*public IActionResult Create(Pizza pizza)
+    [HttpPost]
+    public IActionResult Create(Pizza pizza)
     {
         //This code will save the pizza and return a result
+        return CreatedAtAction(nameof(Get), new { id = pizza.Id }, pizza);
     }
 
     //PUT action 
@@ -41,6 +42,18 @@ public class PizzaController : ControllerBase
     public IActionResult Update(int id, Pizza pizza)
     {
         //This code will update the pizza and return a result
+        if (id != pizza.Id)
+        {
+            return BadRequest();
+        }
+        var existingPizza = PizzaService.Get(id);
+        if(existingPizza is  null)
+        {
+            return NotFound();
+        }
+        PizzaService.Update(pizza);
+
+        return NoContent();
     }
 
 
@@ -48,10 +61,18 @@ public class PizzaController : ControllerBase
     //DELETE action
     [HttpDelete("{id}")]
     public IActionResult Delete(int id)
-    { 
+    {
         //This code will delte the pizza and return a result
+        var pizza = PizzaService.Get(id);
+
+        if (pizza is null)
+        {
+            return NotFound();
+        }
         PizzaService.Delete(id);
-    
-    }*/
+
+
+        return NoContent();
+    }
 
 }
