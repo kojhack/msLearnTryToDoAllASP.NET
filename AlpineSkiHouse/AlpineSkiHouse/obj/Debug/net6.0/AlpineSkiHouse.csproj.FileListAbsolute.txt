@@ -59,3 +59,5 @@ C:/Users/TG24ST25/source/repos/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/re
 /workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/AlpineSkiHouse.pdb
 /workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/AlpineSkiHouse.genruntimeconfig.cache
 /workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/ref/AlpineSkiHouse.dll
+/workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/AlpineSkiHouse.csproj.AssemblyReference.cache
+/workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/AlpineSkiHouse.MvcApplicationPartsAssemblyInfo.cs
