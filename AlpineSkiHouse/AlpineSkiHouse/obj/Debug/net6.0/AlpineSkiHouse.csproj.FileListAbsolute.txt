@@ -61,3 +61,8 @@ C:/Users/TG24ST25/source/repos/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/re
 /workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/ref/AlpineSkiHouse.dll
 /workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/AlpineSkiHouse.csproj.AssemblyReference.cache
 /workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/AlpineSkiHouse.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/msLearnTryToDoAll/AlpineSkiHouse/AlpineSkiHouse/obj/Debug/net6.0/AlpineSk.F0F00818.Up2Date

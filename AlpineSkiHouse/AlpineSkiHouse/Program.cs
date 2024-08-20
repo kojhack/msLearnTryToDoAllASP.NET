@@ -10,7 +10,7 @@ var app = builder.Build();
 app.UseSwagger();
 if (app.Environment.IsDevelopment())
 {
-    app.app.UseSwaggerUI();
+    app.UseSwaggerUI();
 }
 
 // Configure the HTTP request pipeline.
