@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/msLearnTryToDoAllASP.NET/MyFirstBlazorApp/MyApplication/MyApplication/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyApplication.props",
+      "PackagePath": "build\\MyApplication.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyApplication.props",
+      "PackagePath": "buildMultiTargeting\\MyApplication.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyApplication.props",
+      "PackagePath": "buildTransitive\\MyApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
